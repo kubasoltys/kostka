@@ -1,0 +1,11 @@
+.hlavni {
+    margin-top: 100px;
+}
+
+body {
+    font-size: 20px;
+}
+
+#play {
+    background-color: rgb(240, 91, 91);
+}
